@@ -1,5 +1,5 @@
 ## Hi there I am Gehendra 👋
-
+![GunSlinger00007's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunSliger00007&show_icons=true&theme=transparent)
 <!--
 **GunSliger00007/GunSliger00007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
