@@ -1,6 +1,5 @@
 ## Hi there I am Gehendra 👋
 
-![GunSlinger00007's GitHub stats](https://github-readme-stats.vercel.app/api?username=GunSliger00007&show_icons=true&theme=transparent)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunSliger00007)](https://github.com/anuraghazra/github-readme-stats)
