@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GunSliger00007</h1>
-<h3 align="center">A passionate django developer from Nepal</h3>
+<h3 align="center">A passionate Python developer from Nepal</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
